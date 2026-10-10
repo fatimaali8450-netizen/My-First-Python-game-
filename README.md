@@ -1,1 +1,3 @@
-# My-First-Python-game-
+"Castle Escape Game. Hi everyone, this is my first coding project, built for my Introduction to Computational Thinking class. In this game, you're trapped in a castle with four rooms to explore. In each room, you need to find either a key or an access code. Collect everything you need, and you can escape the castle. Miss something, and you're stuck inside. This project uses core Python concepts from the course, including lists, tuples, functions, and conditional statements, to build the game logic and track your progress through the rooms."
+
+Then I'd add a short "How to play" bit, something like: "Run the game and follow the prompts to choose which room to enter. Explore all four rooms to collect the key and access code you need before you can escape."
